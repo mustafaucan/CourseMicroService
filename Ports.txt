@@ -1,2 +1,3 @@
 Services
 -Catalog API -> https:5011
+-PhotoStock API -> 5012
